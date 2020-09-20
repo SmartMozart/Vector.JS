@@ -12,7 +12,7 @@ Reference the library in your html file.
 
 ## 2D Vectors
 Vector2D(x, y)  
-Creates a 2 dimensional vector
+Creates a 2 dimensional vector.
 
 ```javascript
 let myVector1 = Vector2D(7, 12);
@@ -125,7 +125,7 @@ c = 0.5023023780979529
 
 ## 3D Vectors
 Vector3D(x, y, z)  
-Creates a 3 dimensional vector
+Creates a 3 dimensional vector.
 
 ```javascript
 let myVector1 = Vector2D(1, 2, 3);
