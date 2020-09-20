@@ -1,3 +1,5 @@
+<img alt="Vector.js" src="https://lh4.googleusercontent.com/ax4nwt3f5fLzLdpKjy9L0EmrtnlRQpz5-m4iZCVnGT5VeyJiU6o06JrQ8FbqOqdrJzdIo6GW_TeESHEkGFUS=w1920-h937" align="left" width="400">
+
 # Vector.JS
 
 Vector is a javascript library that handles vector maths so you don't have to.
